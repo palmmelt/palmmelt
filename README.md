@@ -7,7 +7,6 @@ React Developer
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Palmmelt](http://palmmelt.github.io/profile-webpage-palmmelt/)
 * ✉️  You can contact me at [palmmeltwork@gmail.com](mailto:palmmeltwork@gmail.com)
-* 🧠  I'm learning backend developer
 
 ### Skills
 
