@@ -8,6 +8,8 @@ React Developer
 * 🖥️  See my portfolio at [Palmmelt](http://palmmelt.github.io/profile-webpage-palmmelt/)
 * ✉️  You can contact me at [palmmeltwork@gmail.com](mailto:palmmeltwork@gmail.com)
 
+2022
+
 ### Skills
 
 
